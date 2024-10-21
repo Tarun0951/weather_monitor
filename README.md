@@ -1,6 +1,6 @@
 # Weather Monitoring Dashboard
 
-This is a weather monitoring dashboard application that provides real-time weather information, forecasts, and alerts for various cities. The application consists of a backend API built with FastAPI and a frontend built with Streamlit.
+This is a weather monitoring dashboard application that provides real-time weather information, forecasts, and alerts for various cities. The application consists of a backend API built with FastAPI and a frontend built with Streamlit along with MongoDB as Database
 
 ## Features
 
