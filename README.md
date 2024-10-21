@@ -36,7 +36,7 @@ The frontend of the application is built using the Streamlit framework. It provi
 
 To run the frontend:
 
-1. Ensure you have Python 3.7+ installed.
+1. Ensure you have Python 3.11+ installed.
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the Streamlit application: `streamlit run dashboard.py`
 
