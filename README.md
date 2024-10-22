@@ -23,7 +23,7 @@ The backend of the application is built using the FastAPI framework. It provides
 
 To run the backend:
 
-1. Ensure you have Python 3.11+ installed.
+1. Ensure you have Python 3.11 installed.
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Set the necessary environment variables (e.g., API keys, database connection details) in a `.env` file.
 4. Run the FastAPI application: `python main.py`
@@ -36,7 +36,7 @@ The frontend of the application is built using the Streamlit framework. It provi
 
 To run the frontend:
 
-1. Ensure you have Python 3.11+ installed.
+1. Ensure you have Python 3.11 installed.
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the Streamlit application: `streamlit run dashboard.py`
 
